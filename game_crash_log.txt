@@ -1,0 +1,325 @@
+The game has been crashed!
+
+UTC Time:       08/06/2024 09:59:07
+Local Time:     08/06/2024 16:59:07
+EXE version:    2023-01-01
+Gepard version: 2024053191
+
+OS version: Windows 10 20H2
+
+0x004eb140 Ragnarok.exe
+0x0081f1bc Ragnarok.exe
+0x00750aa4 Ragnarok.exe
+0x0081f05b Ragnarok.exe
+0x007453dd Ragnarok.exe
+0x0081e754 Ragnarok.exe
+0x007e5874 Ragnarok.exe
+0x007e4ea1 Ragnarok.exe
+0x0079d072 Ragnarok.exe
+0x0076c55f Ragnarok.exe
+0x0076c4b6 Ragnarok.exe
+0x0089a01b Ragnarok.exe
+0x00c52c65 Ragnarok.exe
+0x764dfa29 KERNEL32.DLL
+0x777e7a7e ntdll.dll
+
+EAX: 0x00000000 | 0000000000
+ECX: 0x00000000 | 0000000000
+EDX: 0x016b0000 | 0023789568
+EBX: 0x00de3c5c | 0014564444
+ESI: 0x5ccdee80 | 1556999808
+EDI: 0x00de3c6c | 0014564460
+ESP: 0x0019ae10 | 0001682960
+EBP: 0x0019ae18 | 0001682968
+EIP: 0x004eb140 | 0005157184
+DR0: 0x00000000 | 0000000000
+DR1: 0x00000000 | 0000000000
+DR2: 0x00000000 | 0000000000
+DR3: 0x00000000 | 0000000000
+DR6: 0x00000000 | 0000000000
+DR7: 0x00000000 | 0000000000
+
+=============================================================================
+
+RST: 0
+SST: 0
+CST: 0
+TCI: 1
+
+TL1: 0
+TL2: 10
+TL3: 12
+
+SC_1: 0
+SC_2: 104
+SC_3: 0
+SC_4: 1
+SC_5: 23
+SC_6: 0
+
+PVF_1: 0
+PVF_2: 0
+PVF_3: 0
+PVF_4: 0
+PVF_5: 4198440
+
+XIC: 0 - 0
+
+EB: 0 0 0 0
+PID: 62188
+
+=================================== Stack ===================================
+0019ae10:  31 e1 74 00 e3 57 00 00 38 af 19 00 bc f1 81 00   1 t  W  8       
+0019ae20:  34 ae 19 00 80 ee cd 5c 4c f1 de 00 80 ee cd 5c   4      \L      \
+0019ae30:  80 ee cd 5c b8 f3 bd ba c5 cd 5c 2e 61 63 74 00      \      \.act 
+0019ae40:  88 34 49 5d 54 ae 19 00 68 3c eb 76 88 34 49 5d    4I]T   h< v 4I]
+0019ae50:  00 00 00 00 60 ae 19 00 94 19 c5 00 88 34 49 5d       `        4I]
+0019ae60:  84 ae 19 00 b1 5d 46 00 88 34 49 5d 20 00 00 00        ]F  4I]    
+0019ae70:  6c 8c 6e 2d 40 e9 f7 00 f0 af 19 00 e0 6b c7 00   l n-@        k  
+0019ae80:  ff ff ff ff fc af 19 00 a6 aa 4e 00 14 8d 6e 2d             N   n-
+0019ae90:  80 ee cd 5c bf aa 4e 00 78 42 bf 42 40 e9 f7 00      \  N xB B@   
+0019aea0:  20 d6 dc 00 6c e9 f7 00 05 00 00 00 0c b0 19 00       l           
+0019aeb0:  00 00 00 00 b8 f3 bd ba c5 cd 5c 2e 73 70 72 00             \.spr 
+0019aec0:  0c b0 19 00 40 e9 f7 00 00 00 00 00 0f 00 00 00       @           
+0019aed0:  00 34 49 5d 94 8c 6e 2d 0c b0 19 00 40 e9 f7 00    4I]  n-    @   
+0019aee0:  00 00 00 00 0f 00 00 00 6e 70 63 5c 31 5f 65 74           npc\1_et
+0019aef0:  63 5f 30 31 2e 61 63 74 00 00 00 00 00 00 00 00   c_01.act        
+0019af00:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00                   
+0019af10:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00                   
+0019af20:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00                   
+0019af30:  4c af 19 00 d0 8d 6e 2d 4c af 19 00 a4 0a 75 00   L     n-L     u 
+0019af40:  e3 57 00 00 90 ef cd 5c 80 ee cd 5c a0 af 19 00    W     \   \    
+0019af50:  5b f0 81 00 e3 57 00 00 bc b1 19 00 00 00 00 00   [    W          
+0019af60:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00                   
+0019af70:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00                   
+0019af80:  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00                   
+0019af90:  00 00 00 00 00 00 00 00 00 00 00 00 48 8d 6e 2d               H n-
+INIT: 16 : 1a : 0
+
+VSYNC: 1
+
+LL/LLD: 131/1a4
+
+FM: 97a6c0
+TM: fee1d4
+
+LID: 111ea
+PMU: 95ffc
+CMU: 736b0
+
+=============================================================================
+
+Loaded GRFs:
+
+[0] gepard.grf
+[1] Palette.grf
+[2] Ro-Garment-A.grf
+[3] Ro-Garment-B.grf
+[4] Ro-Garment-C.grf
+[5] Ro-Costume-A.grf
+[6] Ro-Main.grf
+[7] rdata.grf
+[8] data.grf
+
+=============================================================================
+
+Network packet's statistic:
+
+s_bytes: 3 Kbytes
+r_bytes: 46 Kbytes
+
+s_packets ->: 242
+r_packets <-: 1126
+
+00# <- 8e002200e0c3d5c2a1206d6f6e737465727320e0c3d5c2bac3e9cdc2e1c5e9c72100 [219 ms]
+01# <- fe096b0005cc908e0600000000a0000000000000000000e357000000000000000000000000000000000000000000000000000000000000000000000000000028857000002c010000ffffffffffffffff020000536972656e73000000000000000000000000000000000000 [219 ms]
+02# -> f300200040404041444d494e404040203a20406d6f6e73746572203232343939 [266 ms]
+03# <- d7001d0046868e065a020000000001000350565020526f6f6d3020a4b9 [500 ms]
+04# <- d8003b020000 [500 ms]
+05# <- d7001d0046868e063b020000000001000350565020526f6f6d3020a4b9 [1516 ms]
+06# <- d8002e020000 [1516 ms]
+07# <- d7001d0046868e062e020000000001000350565020526f6f6d3020a4b9 [2516 ms]
+08# <- d80016020000 [2516 ms]
+09# <- d7001d0046868e0616020000000001000350565020526f6f6d3020a4b9 [3516 ms]
+10# <- d80004020000 [3516 ms]
+11# <- d7001d0046868e0604020000000001000350565020526f6f6d3020a4b9 [4516 ms]
+12# <- d800e5010000 [4516 ms]
+13# <- d7001d0046868e06e5010000000001000350565020526f6f6d3020a4b9 [5547 ms]
+14# <- d800c9010000 [5547 ms]
+15# <- 300afd851e00bee8cda4e9d2a2d2c2a2cda700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 [5641 ms]
+16# -> 6803fd851e00 [5672 ms]
+17# <- d7001d0046868e06c9010000000001000350565020526f6f6d3020a4b9 [6547 ms]
+18# <- d8007b010000 [6547 ms]
+19# <- 7f00604ed95e [6547 ms]
+20# -> 6003670da915 [6860 ms]
+21# <- d7001d0046868e067b010000000001000350565020526f6f6d3020a4b9 [7563 ms]
+22# <- d800f9000000 [7563 ms]
+23# <- d7001d0046868e06f9000000000001000350565020526f6f6d3020a4b9 [8563 ms]
+24# <- d800d5000000 [8563 ms]
+25# <- d7001d0046868e06d5000000000001000350565020526f6f6d3020a4b9 [9578 ms]
+26# <- d800cb000000 [9578 ms]
+27# <- ff096c000c49888e0600000000c80000000000000000001727000000000000000000000000000000000000000000000000000000000000000000000000000020c3c400000000000000ffffffffffffffff000000c7d2c3ecbb236d6f72360000000000000000000000000000 [10453 ms]
+28# <- d7001d0046868e06cb000000000001000350565020526f6f6d3020a4b9 [10594 ms]
+29# <- d800c4000000 [10594 ms]
+30# <- c3018f0000ff660090010c00000000005bc3d0baba5d20a2b3d0b9d5e920a4d8b3205b202d20e020a8e920d220cbd120c720c120cd20ca202e205d20e4b4e9e0a2e9d2cad9e82020cbe9cda7bacdcac3c7c12031205be0a2e9d2e4b4e9b7d8a1cdd2aad5be5d20e1c5e9c7a8e9d220a2b3d0b9d5e9c1d5bcd9e9e0c5e8b9b7d1e9a7cbc1b4205b2030205d20a4b900 [10641 ms]
+
+=============================================================================
+
+00# [FAIL] sprite\몬스터\.act [219 ms]
+01# [FAIL] sprite\몬스터\.spr [219 ms]
+02# [ OK ] palette\머리\머리14_남_6.pal [10391 ms]
+03# [ OK ] texture\유저인터페이스\basic_interface\dialscr_down.bmp [10641 ms]
+04# [ OK ] texture\유저인터페이스\basic_interface\dialscr_up.bmp [10641 ms]
+05# [ OK ] sprite\npc\2_vending_machine1.act [10922 ms]
+06# [ OK ] sprite\npc\2_vending_machine1.spr [10922 ms]
+07# [ OK ] sprite\npc\2_m_bard_orient.act [11000 ms]
+08# [ OK ] sprite\npc\2_m_bard_orient.spr [11000 ms]
+09# [ OK ] sprite\npc\4_m_roki2.act [11172 ms]
+10# [ OK ] sprite\npc\4_m_roki2.spr [11172 ms]
+11# [ OK ] sprite\npc\4_m_lazy.act [11485 ms]
+12# [ OK ] sprite\npc\4_m_lazy.spr [11485 ms]
+13# [ OK ] sprite\npc\4_m_1stprin1.act [11485 ms]
+14# [ OK ] sprite\npc\4_m_1stprin1.spr [11485 ms]
+15# [ OK ] ..\_tmpEmblem\meduza-ro_2_2147483655.ebm [11813 ms]
+16# [ OK ] texture\워터\water231.jpg [16313 ms]
+17# [ OK ] texture\워터\water230.jpg [16391 ms]
+18# [ OK ] texture\워터\water229.jpg [16485 ms]
+19# [ OK ] texture\워터\water228.jpg [16563 ms]
+20# [ OK ] texture\워터\water227.jpg [16656 ms]
+21# [ OK ] texture\워터\water226.jpg [16735 ms]
+22# [ OK ] texture\워터\water225.jpg [16813 ms]
+23# [ OK ] texture\워터\water224.jpg [16891 ms]
+24# [ OK ] texture\워터\water223.jpg [16985 ms]
+25# [ OK ] texture\워터\water222.jpg [17063 ms]
+26# [ OK ] texture\워터\water221.jpg [17156 ms]
+27# [ OK ] texture\워터\water220.jpg [17235 ms]
+28# [ OK ] texture\워터\water219.jpg [17313 ms]
+29# [ OK ] texture\워터\water218.jpg [17406 ms]
+30# [ OK ] texture\유저인터페이스\basic_interface\chatmode_off.bmp [17438 ms]
+
+=============================================================================
+
+00000001 
+00000001 ..\ftwrk.lex
+00000001 D:\Meduza-Ro\ProhibitionLog.gd
+00000001 sprite\몬스터\.act
+00000001 sprite\몬스터\.spr
+
+=============================================================================
+
+0x00400000   0x00fbd000   D:\Meduza-Ro\Ragnarok.exe
+0x77780000   0x001a3000   C:\WINDOWS\SYSTEM32\ntdll.dll
+0x764c0000   0x000f0000   C:\WINDOWS\System32\KERNEL32.DLL
+0x762a0000   0x00214000   C:\WINDOWS\System32\KERNELBASE.dll
+0x771c0000   0x00063000   C:\WINDOWS\System32\WS2_32.dll
+0x76fa0000   0x000bf000   C:\WINDOWS\System32\RPCRT4.dll
+0x752c0000   0x00035000   D:\Meduza-Ro\binkw32.dll
+0x60000000   0x0005d000   D:\Meduza-Ro\ijl15.dll
+0x770f0000   0x00025000   C:\WINDOWS\System32\IMM32.dll
+0x75bc0000   0x00196000   C:\WINDOWS\System32\USER32.dll
+0x77120000   0x00018000   C:\WINDOWS\System32\win32u.dll
+0x21100000   0x0005e000   D:\Meduza-Ro\mss32.dll
+0x76220000   0x0007a000   C:\WINDOWS\System32\ADVAPI32.dll
+0x77310000   0x00023000   C:\WINDOWS\System32\GDI32.dll
+0x77250000   0x000bf000   C:\WINDOWS\System32\msvcrt.dll
+0x10000000   0x00015000   D:\Meduza-Ro\cps.dll
+0x77690000   0x000dc000   C:\WINDOWS\System32\gdi32full.dll
+0x76840000   0x00075000   C:\WINDOWS\System32\sechost.dll
+0x75ae0000   0x0007b000   C:\WINDOWS\System32\msvcp_win.dll
+0x75600000   0x00028000   C:\WINDOWS\SYSTEM32\WINMM.dll
+0x76e80000   0x00120000   C:\WINDOWS\System32\ucrtbase.dll
+0x77430000   0x000e3000   C:\WINDOWS\System32\ole32.dll
+0x75250000   0x0006f000   D:\Meduza-Ro\MSVCP140.dll
+0x6b910000   0x01256000   D:\Meduza-Ro\gepard.dll
+0x765b0000   0x00281000   C:\WINDOWS\System32\combase.dll
+0x768c0000   0x005b3000   C:\WINDOWS\System32\SHELL32.dll
+0x77340000   0x00096000   C:\WINDOWS\System32\OLEAUT32.dll
+0x75d90000   0x00045000   C:\WINDOWS\System32\SHLWAPI.dll
+0x75230000   0x00013000   D:\Meduza-Ro\VCRUNTIME140.dll
+0x74a90000   0x00169000   C:\WINDOWS\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1151_none_d951395de104724f\gdiplus.dll
+0x74ec0000   0x000e9000   C:\WINDOWS\SYSTEM32\DDRAW.dll
+0x74a50000   0x00032000   C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+0x77420000   0x00006000   C:\WINDOWS\System32\PSAPI.DLL
+0x74fb0000   0x00013000   C:\WINDOWS\SYSTEM32\NETAPI32.dll
+0x6e420000   0x0008d000   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_c0da534e38c01f4d\COMCTL32.dll
+0x753f0000   0x0000f000   C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+0x749f0000   0x0000f000   C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+0x73080000   0x00188000   C:\WINDOWS\SYSTEM32\dbghelp.dll
+0x71e00000   0x000c3000   C:\WINDOWS\SYSTEM32\dxgi.dll
+0x75210000   0x00007000   C:\WINDOWS\SYSTEM32\DCIMAN32.dll
+0x73820000   0x00452000   C:\WINDOWS\SYSTEM32\WININET.dll
+0x75220000   0x00008000   C:\WINDOWS\SYSTEM32\FLTLIB.DLL
+0x75520000   0x00008000   C:\WINDOWS\SYSTEM32\VERSION.dll
+0x019f0000   0x0005d000   D:\Meduza-Ro\granny2.dll
+0x73d20000   0x00074000   C:\WINDOWS\system32\uxtheme.dll
+0x75810000   0x000d4000   C:\WINDOWS\System32\MSCTF.dll
+0x756a0000   0x0005f000   C:\WINDOWS\System32\bcryptPrimitives.dll
+0x702f0000   0x000b9000   C:\WINDOWS\SYSTEM32\textinputframework.dll
+0x71010000   0x0009b000   C:\WINDOWS\SYSTEM32\CoreMessaging.dll
+0x70d90000   0x0027e000   C:\WINDOWS\SYSTEM32\CoreUIComponents.dll
+0x759a0000   0x00087000   C:\WINDOWS\System32\SHCORE.dll
+0x74360000   0x00029000   C:\WINDOWS\SYSTEM32\ntmarta.dll
+0x710b0000   0x000db000   C:\WINDOWS\SYSTEM32\wintypes.dll
+0x77140000   0x0007e000   C:\WINDOWS\System32\clbcatq.dll
+0x742e0000   0x00011000   C:\WINDOWS\system32\napinsp.dll
+0x742a0000   0x00016000   C:\WINDOWS\system32\pnrpnsp.dll
+0x740f0000   0x00010000   C:\WINDOWS\system32\wshbth.dll
+0x740d0000   0x00016000   C:\WINDOWS\system32\NLAapi.dll
+0x74300000   0x00052000   C:\WINDOWS\System32\mswsock.dll
+0x74130000   0x00091000   C:\WINDOWS\SYSTEM32\DNSAPI.dll
+0x75630000   0x00007000   C:\WINDOWS\System32\NSI.dll
+0x74070000   0x0000e000   C:\WINDOWS\System32\winrnr.dll
+0x74280000   0x00016000   C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+0x74010000   0x00058000   C:\WINDOWS\System32\fwpuclnt.dll
+0x75d70000   0x00019000   C:\WINDOWS\System32\bcrypt.dll
+0x74000000   0x00008000   C:\Windows\System32\rasadhlp.dll
+0x04510000   0x00007000   D:\Meduza-Ro\dinput.dll
+0x753a0000   0x00047000   C:\WINDOWS\SYSTEM32\WINSTA.dll
+0x75190000   0x0007f000   C:\WINDOWS\SYSTEM32\DSOUND.DLL
+0x75450000   0x00044000   C:\WINDOWS\SYSTEM32\powrprof.dll
+0x74ea0000   0x0001d000   C:\WINDOWS\SYSTEM32\winmmbase.dll
+0x75440000   0x0000d000   C:\WINDOWS\SYSTEM32\UMPDC.dll
+0x73e10000   0x0006b000   C:\WINDOWS\System32\MMDevApi.dll
+0x732b0000   0x0002b000   C:\WINDOWS\System32\DEVOBJ.dll
+0x773e0000   0x0003b000   C:\WINDOWS\System32\cfgmgr32.dll
+0x6e510000   0x00136000   C:\WINDOWS\SYSTEM32\AUDIOSES.DLL
+0x75180000   0x0000f000   C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll
+0x73da0000   0x0000e000   C:\WINDOWS\SYSTEM32\msasn1.dll
+0x73cd0000   0x00026000   C:\WINDOWS\SYSTEM32\cryptnet.dll
+0x75700000   0x00101000   C:\WINDOWS\System32\CRYPT32.dll
+0x72ed0000   0x00101000   C:\WINDOWS\SYSTEM32\drvstore.dll
+0x743b0000   0x00024000   C:\WINDOWS\SYSTEM32\wldp.dll
+0x754a0000   0x0000a000   C:\WINDOWS\SYSTEM32\cryptbase.dll
+0x75950000   0x00047000   C:\WINDOWS\System32\WINTRUST.DLL
+0x77230000   0x00019000   C:\WINDOWS\System32\imagehlp.dll
+0x73eb0000   0x00013000   C:\WINDOWS\SYSTEM32\CRYPTSP.dll
+0x73e80000   0x0002f000   C:\WINDOWS\system32\rsaenh.dll
+0x743e0000   0x00608000   C:\WINDOWS\SYSTEM32\windows.storage.dll
+0x6e1f0000   0x0022a000   C:\WINDOWS\system32\nvspcap.dll
+0x74390000   0x00018000   C:\WINDOWS\SYSTEM32\profapi.dll
+0x73d00000   0x0001e000   C:\WINDOWS\SYSTEM32\gpapi.dll
+0x703b0000   0x0002c000   C:\WINDOWS\SYSTEM32\dxcore.dll
+0x6b8a0000   0x00063000   C:\WINDOWS\SYSTEM32\D3DIM700.DLL
+0x0aa30000   0x0002a000   D:\Meduza-Ro\Mp3dec.asi
+0x0b3b0000   0x00016000   D:\Meduza-Ro\Mssfast.m3d
+0x6b7a0000   0x000f3000   C:\Windows\System32\Windows.UI.dll
+0x6b720000   0x00073000   C:\Windows\System32\WindowManagementAPI.dll
+0x71190000   0x000ed000   C:\Windows\System32\InputHost.dll
+0x70610000   0x0018f000   C:\WINDOWS\SYSTEM32\twinapi.appcore.dll
+0x72710000   0x000c2000   C:\Windows\System32\PROPSYS.dll
+0x73e00000   0x00008000   C:\WINDOWS\SYSTEM32\avrt.dll
+0x6f670000   0x000e5000   C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_47917a79b8c7fd22\nvldumd.dll
+0x6cb70000   0x01497000   C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_47917a79b8c7fd22\nvd3dum.dll
+0x6e4c0000   0x00045000   D:\Meduza-Ro\libcurl.dll
+0x75640000   0x00057000   C:\WINDOWS\System32\WLDAP32.dll
+0x6b640000   0x000d6000   D:\Meduza-Ro\MSVCR110.dll
+0x70b30000   0x00094000   C:\WINDOWS\SYSTEM32\TextShaping.dll
+0x6f760000   0x00026000   C:\WINDOWS\SYSTEM32\dwmapi.dll
+0x74a10000   0x00021000   C:\WINDOWS\SYSTEM32\SspiCli.dll
+0x6f4d0000   0x0000d000   C:\WINDOWS\system32\wbem\wbemprox.dll
+0x6b550000   0x00072000   C:\WINDOWS\SYSTEM32\wbemcomn.dll
+0x6f4c0000   0x00010000   C:\WINDOWS\system32\wbem\wbemsvc.dll
+0x6b480000   0x000c9000   C:\WINDOWS\system32\wbem\fastprox.dll
+0x73060000   0x00012000   C:\WINDOWS\SYSTEM32\amsi.dll
+0x73c80000   0x00025000   C:\WINDOWS\SYSTEM32\USERENV.dll
+0x72fe0000   0x00071000   C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24050.7-0\X86\MpOav.dll

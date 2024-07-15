@@ -1,0 +1,11 @@
+characterName:65464566
+slotNum:0
+headPaletteNum:20
+headStyle:29
+bodyStyle:0
+bodyPaletteNum:7
+topAccNum:0
+midAccNum:0
+bottomAccNum:2128
+Robe:0
+*
